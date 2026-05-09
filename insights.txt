@@ -1,0 +1,11 @@
+1. Previous scores had the highest impact on student performance.
+
+2. Study hours also strongly affected performance prediction.
+
+3. Sleep hours and extracurricular activities had lower impact.
+
+4. The Random Forest model achieved very high prediction accuracy.
+
+5. Actual and predicted values were closely aligned.
+
+6. Machine learning can effectively predict student academic performance using study-related features.
